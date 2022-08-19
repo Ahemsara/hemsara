@@ -1,6 +1,9 @@
 #MICROCOMPTERSLAB4
+
 micro
+
 Content
+
 •	Objective
 •	Apparatus
 •	Introduction
@@ -13,6 +16,7 @@ Content
 •	Discussion
 •	References
 Objective
+
 This lab's main goal is for you to create a simple water level control system for a water tank utilizing your understanding of interrupts and other PIC16f877a programming techniques from all the previous labs we covered in the course.
 Apparatus
 •	PCB board
@@ -30,6 +34,8 @@ Apparatus
 
 
 Introduction
+
+
 The objective of the project is to create a system that automatically controls the water level. A PIC microcontroller and IR sensors are used in the recommended system to detect the water level within a tank and automatically turn on or off two DC motors based on that information.
 
 The trials' findings show that the proposed system is effective in determining the water level and turning the water pump ON or OFF in response to the water level.
